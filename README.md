@@ -3,8 +3,8 @@
 <img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=RohanTheProgrammer&show_icons=true&theme=dark" width="320">
 
 ### whoami : 
-> I am Dhruv Anand (RohanHax), a CyberSecurity enthusiast. I am graduate, BA (Computer Applications + Economics). I write code, break others' code and write code that break others' code. Other than that I like building and hacking Arduino projects, poking around machines and try to understand how the underlying systems work.
-   <br/>
+> I am Dhruv Anand (RohanHax), a CyberSecurity enthusiast. I am a graduate. I like building hacking stuff, poking around machines is my hobby and I try to understand how the underlying systems work.
+<br/><br/>I love to build, break and secure stuff.
 <!-- <img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RohanTheProgrammer" width="320"> -->
 </div>
 
